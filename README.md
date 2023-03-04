@@ -1,5 +1,6 @@
 # IDEA-DE-PROYECTO-ENTRGA-PRIMER-CORTE
 [idea de proyecto.docx](https://github.com/miguelmurillo54/IDEA-DE-PROYECTO-ENTRGA-PRIMER-CORTE/files/10889846/idea.de.proyecto.docx)
+
 Desarrollar una aplicación móvil de recetas de cocina 
 Funcionamiento
 La aplicación permitirá a los usuarios conectarse a paginas especializada en recetas de cocina.
