@@ -12,3 +12,8 @@ Ay un apartado de favoritos para guardar las recetas que mas te gusten, las que 
 Diseño de Interfaz de Usuario 
 La aplicación tendrá un diseño simple y minimalista que dará a los usuarios una experiencia agradable a la vista.
 Tendrá una pagina de registro opcional ya que puede darse la posibilidad de que un usuario no cuente con correo electrónico y solo por esto desista de usar nuestra app.
+
+
+
+Mockup
+https://marvelapp.com/prototype/bdh1dfj/screen/90876407
